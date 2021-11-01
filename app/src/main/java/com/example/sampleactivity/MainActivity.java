@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        val firstFragment = FirstFragment();
-        val secondFragment = SecondFragment();
+//        val firstFragment = FirstFragment();
+//        val secondFragment = SecondFragment();
     }
 }
